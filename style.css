@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.note{
+    color: white;
+    text-align: center;
+}
+
+#para{
+    color: antiquewhite;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.x{
+    background-color: white;
+    border-radius: 19%;
+}
+
+.image{
+    text-align: center;
+}
+
