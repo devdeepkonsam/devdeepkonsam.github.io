@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <h1>DEVDEEP SINGHA'S PROFILE</h1>
+    <h1>DEVDEEP SINGHA</h1>
     <a href="https://github.com/devdeepkonsam"><img class="profile" src="./public/image/IMG_20230908_225719.png" alt="Devdeep"></a>
     <hr>
     <h3 class="note">About Me:</h3>
