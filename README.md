@@ -20,10 +20,10 @@
     </p>
     <hr>
     <P class="image">
-    <a href="https://www.instagram.com/_devdeep_konsam"><img src="./public/image/instagram.png" width="30"></a>
-    <a href="https://www.linkedin.com/in/devdeep-singha-156400292/"><img src="./public/image/linkedin.png" width="30"></a>
-    <a href="https://twitter.com/DevdeepSingha"><img class="x" src="./public/image/twitter.png" width="30"></a>
-    <a href="mailto: devdeepkonsam1212@gmail.com"><img src="./public/image/gmail.png" width="30"></a>
+    <a href="https://www.instagram.com/_devdeep_konsam" target="_blank"><img src="./public/image/instagram.png" width="30"></a>
+    <a href="https://www.linkedin.com/in/devdeep-singha-156400292/" target="_blank"><img src="./public/image/linkedin.png" width="30"></a>
+    <a href="https://twitter.com/DevdeepSingha" target="_blank"><img class="x" src="./public/image/twitter.png" width="30"></a>
+    <a href="mailto: devdeepkonsam1212@gmail.com" target="_blank"><img src="./public/image/gmail.png" width="30"></a>
     </P>
 </body>
 </html>
